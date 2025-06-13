@@ -92,7 +92,7 @@ To run this project, follow these steps:
     ```
 
 ## Terminal Interaction Snapshots
-
+<img width="1161" alt="Screenshot 2025-06-13 at 1 25 00 PM" src="https://github.com/user-attachments/assets/0c069fa9-bb99-49ea-a2d4-9033ff5f0e3b" />
 
 ## Cursor Interaction Snapshots
 
