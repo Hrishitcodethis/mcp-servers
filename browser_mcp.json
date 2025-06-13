@@ -1,0 +1,25 @@
+{
+    "mcpServers": {
+      "playwright": {
+        "command": "npx",
+        "args": [
+          "@playwright/mcp@latest"
+        ]
+      },
+       "airbnb": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@openbnb/mcp-server-airbnb",
+                "--ignore-robots-txt"
+            ]
+      },
+    "octagon-deep-research-mcp": {
+      "command": "npx",
+      "args": ["-y", "octagon-deep-research-mcp@latest"],
+      "env": {
+        "OCTAGON_API_KEY": "{{OCTAGON_API_KEY}}"
+      }
+    }
+  }
+}
