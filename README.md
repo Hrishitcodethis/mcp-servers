@@ -71,3 +71,29 @@ OCTAGON_API_KEY="your_octagon_api_key_here"
 To run this project, ensure you have Node.js and npm/npx installed. Then, set up your environment variables as described above.
 
 Further instructions on how to run the specific components of this project would depend on the main application's entry point (e.g., Python script, web server).
+
+## How to Run in Terminal
+
+To run this project, follow these steps:
+
+1.  **Install Dependencies:** Ensure you have `uv` installed. If not, you can install it using pip: `pip install uv`. Then, install the project dependencies:
+
+    ```bash
+    uv pip install -r requirements.txt
+    ```
+    (Note: If you don't have a `requirements.txt` file, you might need to create one or install dependencies based on `pyproject.toml` or `uv.lock`.)
+
+2.  **Set up Environment Variables:** Create a `.env` file in the project root and add your `OCTAGON_API_KEY` as described in the "API Key Management" section.
+
+3.  **Run the Application:** Execute the main application script (assuming `app.py` is your main entry point):
+
+    ```bash
+    uv run app.py
+    ```
+
+## Terminal Interaction Snapshots
+
+
+## Cursor Interaction Snapshots
+
+The Cursor IDE can also function as an MCP client, allowing for direct interaction and execution of MCP commands within the IDE environment.
