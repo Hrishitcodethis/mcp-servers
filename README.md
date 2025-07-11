@@ -1,6 +1,6 @@
 # MCP Demo Project
 
-This project serves as a demonstration and exploration of various Multi-Cloud Platform (MCP) servers and their respective use cases. It aims to provide a clear understanding of how different MCP services can be integrated and utilized within a single application, showcasing their functionalities and potential workflows.
+This project serves as a demonstration and exploration of various Model Context Protocol (MCP) servers and their respective use cases. It aims to provide a clear understanding of how different MCP services can be integrated and utilized within a single application, showcasing their functionalities and potential workflows.
 
 ## Project Overview
 
